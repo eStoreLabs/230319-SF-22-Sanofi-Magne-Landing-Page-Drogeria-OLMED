@@ -55,7 +55,7 @@
   box-sizing: border-box;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-kv {
-  background-image: url(./img/kv-bg.webp);
+  background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/kv-bg.webp);
   background-repeat: no-repeat;
   background-position: top left;
   background-size: contain;
@@ -127,7 +127,7 @@
   margin-bottom: 60px;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-kv__subtitleCtn {
-  background-image: url(./img/es-kv-text-bg.webp);
+  background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-kv-text-bg.webp);
   background-repeat: no-repeat;
   background-size: contain;
   min-width: 300px;
@@ -150,7 +150,7 @@
   font-size: 20px;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-kv__imgCtn::after {
-  content: url(./img/es-header-line.webp);
+  content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-header-line.webp);
   display: block;
   position: absolute;
   bottom: -10px;
@@ -210,7 +210,7 @@
   padding-inline: 20px;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-may__slide--second {
-  background-image: url(./img/es-may-slider-bg.webp);
+  background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-may-slider-bg.webp);
   background-repeat: no-repeat;
   background-position: top right;
   background-size: contain;
@@ -309,7 +309,7 @@
   position: relative;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-message__title:after {
-  content: url(./img/kv-sun.webp);
+  content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/kv-sun.webp);
   display: block;
   position: absolute;
   right: -150px;
@@ -327,7 +327,7 @@
   color: #001883;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-magneDesc {
-  background-image: url(./img/es-magneDesc-bg.webp);
+  background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-magneDesc-bg.webp);
   background-repeat: no-repeat;
   background-position: right center;
   background-size: contain;
@@ -443,7 +443,7 @@
 #es-sanofi.es-sanofi #es-magne.es-magne .es-magneDesc__numberCtn {
   height: 60px;
   width: 60px;
-  background-image: url(./img/es-how-numberBg.webp);
+  background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-how-numberBg.webp);
   background-repeat: no-repeat;
   background-size: contain;
   display: flex;
@@ -545,7 +545,7 @@
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  background-image: url(./img/es-select-arrow.png);
+  background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-select-arrow.png);
   background-repeat: no-repeat;
   background-position: 99%;
   background-size: 8%;
@@ -589,7 +589,7 @@
   color: #fff;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-calculator__submitBtn::after {
-  content: url(./img/es-line.webp);
+  content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-line.webp);
   position: absolute;
   top: -30px;
   left: -150%;
@@ -646,7 +646,7 @@
   color: #fff;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-calculator__returnBtn::after {
-  content: url(./img/es-line.webp);
+  content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-line.webp);
   position: absolute;
   top: -30px;
   left: -60%;
@@ -714,7 +714,7 @@
   right: -20px;
   width: 70px;
   height: 70px;
-  background-image: url(./img/es-how-numberBg.webp);
+  background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-how-numberBg.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -819,7 +819,7 @@
   align-items: center;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-why__infoCtn {
-  background-image: url(./img/es-why__bg.webp);
+  background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-why__bg.webp);
   background-repeat: no-repeat;
   background-position: left;
   background-size: contain;
@@ -876,7 +876,7 @@
   padding: 50px 0;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-how::after {
-  content: url(./img/es-how-happyFace.webp);
+  content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-how-happyFace.webp);
   display: block;
   position: absolute;
   right: 10%;
@@ -897,7 +897,7 @@
   position: relative;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-how__title::after {
-  content: url(./img/es-how-sadFace.webp);
+  content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-how-sadFace.webp);
   display: block;
   position: absolute;
   right: 0;
@@ -949,14 +949,14 @@
   position: relative;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-symptoms__text::before {
-  content: url(./img/es-symptoms-lineTop.webp);
+  content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-symptoms-lineTop.webp);
   display: block;
   position: absolute;
   top: -30px;
   left: -40px;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-symptoms__text::after {
-  content: url(./img/es-symptoms-lineBottom.webp);
+  content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-symptoms-lineBottom.webp);
   display: block;
   position: absolute;
   bottom: -30px;
@@ -973,7 +973,7 @@
   margin-top: 20px;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-symptoms__bottomCtn {
-  background-image: url(./img/es-symptoms-bg.webp);
+  background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-symptoms-bg.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -1092,7 +1092,7 @@
   position: absolute;
   top: -50px;
   right: 0px;
-  background-image: url(./img/es-how-numberBg.webp);
+  background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-how-numberBg.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -1439,7 +1439,7 @@
     font-size: 40px;
   }
   #es-sanofi.es-sanofi #es-magne.es-magne .es-message__title:after {
-    content: url(./img/kv-sun.webp);
+    content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/kv-sun.webp);
     display: block;
     position: absolute;
     right: -150px;
@@ -1480,7 +1480,7 @@
     min-height: 300px;
   }
   #es-sanofi.es-sanofi #es-magne.es-magne .es-calculator {
-    background-image: url(./img/es-calculator-bg.webp);
+    background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-calculator-bg.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -1494,7 +1494,7 @@
     margin: 20px 0 0 0;
   }
   #es-sanofi.es-sanofi #es-magne.es-magne .es-care {
-    background-image: url(./img/es-care-bg.webp);
+    background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-care-bg.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -1576,7 +1576,7 @@
     min-height: 40px;
   }
   #es-sanofi.es-sanofi #es-magne.es-magne .es-container {
-    background-image: url(./img/es-how-bg.webp);
+    background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-how-bg.webp);
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 45%;
@@ -1652,7 +1652,7 @@
     border-radius: 100px;
   }
   #es-sanofi.es-sanofi #es-magne.es-magne .es-activeInfo__ctn::after {
-    content: url(./img/es-active-line-top.webp);
+    content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-active-line-top.webp);
     display: block;
     position: absolute;
     top: -50px;
@@ -1667,7 +1667,7 @@
     padding: 20px;
   }
   #es-sanofi.es-sanofi #es-magne.es-magne .es-activeInfo__bottomCtn::after {
-    content: url(./img/es-active-line-bottom.webp);
+    content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-active-line-bottom.webp);
     display: block;
     position: absolute;
     bottom: 20px;
@@ -1678,7 +1678,7 @@
     position: absolute;
     top: -20px;
     left: -90px;
-    background-image: url(./img/es-how-numberBg.webp);
+    background-image: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/es-how-numberBg.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1725,7 +1725,7 @@
     position: absolute;
   }
   #es-sanofi.es-sanofi #es-magne.es-magne .es-kv__nav::after {
-    content: url(./img/nav-line.webp);
+    content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/nav-line.webp);
     display: block;
     position: absolute;
     bottom: 0;
@@ -1765,7 +1765,7 @@
   }
   #es-sanofi.es-sanofi #es-magne.es-magne .es-kv__subtitleCtn::after {
     display: block;
-    content: url(./img/kv-sun.webp);
+    content: url(https://raw.githubusercontent.com/eStoreLabs/230319-SF-22-Sanofi-Magne-Landing-Page-Drogeria-OLMED/master/img/kv-sun.webp);
     position: absolute;
     left: -200px;
   }
