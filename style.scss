@@ -58,7 +58,16 @@ $es-title: "es-Bliss-heavy";
     transform: translateY(-5px);
   }
 }
-
+@keyframes es-open {
+  0% {
+    opacity: 0;
+    margin-top: -50px;
+  }
+  100% {
+    opacity: 1;
+    margin-top: 10px;
+  }
+}
 #es-sanofi.es-sanofi {
   #es-magne.es-magne {
     max-width: 1338px;
@@ -1148,6 +1157,10 @@ $es-title: "es-Bliss-heavy";
     }
     .es-faq {
       margin-top: 80px;
+      details[open] > summary ~ * {
+        opacity: 0.5s ease-in-out;
+        animation: es-open 0.3s ease-in-out;
+      }
       &__title {
         @include es-text-reset;
         font-size: 25px;
@@ -1177,8 +1190,9 @@ $es-title: "es-Bliss-heavy";
         padding: 10px 20px;
         border-radius: 30px;
       }
-      // &__arrow {
-      // }
+      &__arrow {
+        transition: all 200ms ease-in;
+      } 
       &__rotate {
         transform: rotate(-180deg);
       }
@@ -1193,6 +1207,7 @@ $es-title: "es-Bliss-heavy";
         @include es-text-reset;
         font-family: $es-thin;
         color: $es-main-text-color;
+        margin-left: 50px;
       }
     }
     .es-articles {

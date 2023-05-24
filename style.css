@@ -38,6 +38,16 @@
     transform: translateY(-5px);
   }
 }
+@keyframes es-open {
+  0% {
+    opacity: 0;
+    margin-top: -50px;
+  }
+  100% {
+    opacity: 1;
+    margin-top: 10px;
+  }
+}
 #es-sanofi.es-sanofi #es-magne.es-magne {
   max-width: 1338px;
   margin: 0 auto;
@@ -1196,6 +1206,10 @@
 #es-sanofi.es-sanofi #es-magne.es-magne .es-faq {
   margin-top: 80px;
 }
+#es-sanofi.es-sanofi #es-magne.es-magne .es-faq details[open] > summary ~ * {
+  opacity: 0.5s ease-in-out;
+  animation: es-open 0.3s ease-in-out;
+}
 #es-sanofi.es-sanofi #es-magne.es-magne .es-faq__title {
   font-size: 16px;
   line-height: 1.3;
@@ -1229,6 +1243,9 @@
   padding: 10px 20px;
   border-radius: 30px;
 }
+#es-sanofi.es-sanofi #es-magne.es-magne .es-faq__arrow {
+  transition: all 200ms ease-in;
+}
 #es-sanofi.es-sanofi #es-magne.es-magne .es-faq__rotate {
   transform: rotate(-180deg);
 }
@@ -1247,6 +1264,7 @@
   margin-top: 10px;
   font-family: "es-Gilroy-regular";
   color: #001883;
+  margin-left: 50px;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-articles {
   padding: 10px;
