@@ -198,19 +198,12 @@
   text-align: center;
   color: #001e61;
 }
-#es-sanofi.es-sanofi #es-magne.es-magne .es-cross__link {
-  text-decoration: none;
+#es-sanofi.es-sanofi #es-magne.es-magne .es-cross__not-a-link {
   color: #001e61;
   border: 2px solid #001e61;
-  border-radius: 20px;
   padding: 5px 20px;
   font-family: "es-Gilroy-semibold";
   font-size: 18px;
-  transition: 0.4s ease-in-out;
-}
-#es-sanofi.es-sanofi #es-magne.es-magne .es-cross__link:hover {
-  background-color: #001e61;
-  color: #fff;
 }
 #es-sanofi.es-sanofi #es-magne.es-magne .es-may__slide {
   display: flex;
