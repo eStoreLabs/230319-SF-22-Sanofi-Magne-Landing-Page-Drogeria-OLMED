@@ -34,10 +34,10 @@ $es-title: "es-Bliss-heavy";
     transform: scale(1, 1);
   }
   25% {
-    transform: scale(0.9, 1.1);
+    transform: scale(0.95, 1.05);
   }
   50% {
-    transform: scale(1.1, 0.9);
+    transform: scale(1.05, 0.95);
   }
   75% {
     transform: scale(0.95, 1.05);
@@ -1063,7 +1063,7 @@ $es-title: "es-Bliss-heavy";
         display: flex;
         justify-content: center;
         align-items: center;
-        animation: es-gelatine 2s infinite;
+        animation: es-gelatine 4s infinite;
       }
       &__question {
         font-size: 60px;
